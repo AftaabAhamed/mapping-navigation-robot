@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "/home/e-yanthra/pico/riggu_pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

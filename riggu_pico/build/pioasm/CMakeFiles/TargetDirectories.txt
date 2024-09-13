@@ -1,0 +1,3 @@
+/home/e-yanthra/pico/riggu_pico/build/pioasm/CMakeFiles/pioasm.dir
+/home/e-yanthra/pico/riggu_pico/build/pioasm/CMakeFiles/edit_cache.dir
+/home/e-yanthra/pico/riggu_pico/build/pioasm/CMakeFiles/rebuild_cache.dir
